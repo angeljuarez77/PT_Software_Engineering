@@ -1,5 +1,5 @@
 # Copy this text into your `.bash` homework file. Copy and paste the code you successfully used into terminal below each prompt
-
+hello
 # Open the **Terminal app**
 
 # Create a new directory on your desktop called `galaxy_far_far_away`and enter it
